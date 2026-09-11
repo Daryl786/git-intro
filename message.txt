@@ -1,1 +1,1 @@
-Change from feature branch
+Merged change from both branches
